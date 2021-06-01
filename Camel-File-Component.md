@@ -29,3 +29,11 @@ The File component provides access to file systems, allowing files to be process
   <br>
   
    4️⃣ **ᴡʜʏ ᴀʀᴇ ᴡᴇ ᴜsᴇᴅ, <ᴛᴏ ɪᴅ="ᴛᴏ-ɪᴅ" ᴜʀɪ="ғɪʟᴇ:/ʜᴏᴍᴇ/ʀɪsʜᴀʙʜ/ᴅᴏᴡɴʟᴏᴀᴅs/ᴏᴜᴛᴘᴜᴛ?ᴅᴏɴᴇғɪʟᴇɴᴀᴍᴇ=${ғɪʟᴇ:ɴᴀᴍᴇ}.ᴅᴏɴᴇ"/> ɪɴ ᴄᴀᴍᴇʟ ғɪʟᴇ ᴄᴏᴍᴘᴏɴᴇɴᴛ**
+ 
+  In the option, we give the path where we want the file.
+ <br> 
+ <br>
+ <br>
+ :five: **ᴡʜʏ ᴀʀᴇ ᴡᴇ ᴜsᴇᴅ, <ʟᴏɢ ɪᴅ="ʀᴏᴜᴛᴇ-ʟᴏɢ" ᴍᴇssᴀɢᴇ=">>> ʜᴇᴀᴅᴇʀs : ${ʜᴇᴀᴅᴇʀs}"/> ɪɴ ᴄᴀᴍᴇʟ ғɪʟᴇ ᴄᴏᴍᴘᴏɴᴇɴᴛ**
+ 
+ And in this header log our header log is generated such as in the output folder from where we are sending the file and the path of the input folder where the file is going.

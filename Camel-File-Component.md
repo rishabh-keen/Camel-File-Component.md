@@ -27,15 +27,13 @@ The File component provides access to file systems, allowing files to be process
   </details>
  <br>
  <br>
- <br>
   
   :one: **ᴡʜʏ ᴀʀᴇ ᴡᴇ ᴜsᴇᴅ, ʀᴏᴜᴛᴇ ɪᴅ="sɪᴍᴘʟᴇ-ʀᴏᴜᴛᴇ" ɪɴ ᴄᴀᴍᴇʟ ғɪʟᴇ ᴄᴏᴍᴘᴏɴᴇɴᴛ**
   
   We can use multiple route IDs in a CamelContext project.  But it should be noted that the name of each route ID should be different.
-  
-  <br><br><br>
-  
-  
+  <br>
+ <br>
+ 
  :two: **<ғʀᴏᴍ ɪᴅ="ʀᴏᴜᴛᴇ-ᴛɪᴍᴇʀ" ᴜʀɪ="ғɪʟᴇ:/ʜᴏᴍᴇ/ʀɪsʜᴀʙʜ/ᴅᴏᴡɴʟᴏᴀᴅs/ɪɴᴘᴜᴛ?ɴᴏᴏᴘ=ᴛʀᴜᴇ&ᴀᴍᴘ;ɪɴᴄʟᴜᴅᴇ=.*.ᴄsᴠ&ᴀᴍᴘ;ᴅᴇʟᴀʏ=𝟷𝟶𝟶𝟶𝟶&ᴀᴍᴘ;sᴏʀᴛʙʏ=ʀᴇᴠᴇʀsᴇ:ғɪʟᴇ:ᴍᴏᴅɪғɪᴇᴅ"/>**
   
   In the uri option, we will write the file component next.  Then we will give the path of our producer. <br> **ⓃⓄⓄⓅ -** If the condition of our noop is true then the file will only be copied.  If the condition of our noop is false then the file will be deleted from the producer and go to the consumer. <br> **ⒾⓃⒸⓁⓊⒹⒺ -** And include means.  We can also define our type in which type of file we want to send. <br> **ⒹⒺⓁⒶⓎ -** And we are using delay because in how long will our file go. <br> **&ⓐⓜⓟ -** And we are using & amp because we can use multiple components on the same line. <br> **ⓢⓞⓡⓣⒷⓨ -** And sortBy we are doing shorting of files. <br> 

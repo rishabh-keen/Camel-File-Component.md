@@ -6,6 +6,8 @@ The File component provides access to file systems, allowing files to be process
   
   <hr>
   <h3 align=center> 🆃🅷🅸🆂 🅸🆂 🅲🅾🅳🅴 🅾🅵 🅵🅸🅻🅴 🅲🅾🅼🅿🅾🅽🅴🅽🆃 </h3>
+ 
+ **Note :-** Before reading the option of all these codes, you click on the **Code Pic**. After seeing the code, you will be able to understand all these options and their theory.
   
   <br>
   <details close="close"> 

@@ -7,7 +7,27 @@ The File component provides access to file systems, allowing files to be process
   <hr>
   <h3 align=center> 🆃🅷🅸🆂 🅸🆂 🅲🅾🅳🅴 🅾🅵 🅵🅸🅻🅴 🅲🅾🅼🅿🅾🅽🅴🅽🆃 </h3>
   
-  <br><br>
+  <br>
+  <details close="close"> 
+  <summary><b>Code Pic</b></summary>   
+     
+   <p align ="center"><img src="https://github.com/rishabh-keen/photos.md/blob/master/1.png"></p>
+  </details>
+ 
+   <details close="close"> 
+  <summary><b>Log Pic</b></summary>   
+     
+   <p align ="center"><img src="https://github.com/rishabh-keen/photos.md/blob/master/2.png"></p>
+  </details>
+ 
+   <details close="close"> 
+  <summary><b>POM File</b></summary>   
+     
+   <h4>https://github.com/rishabh-keen/photos.md/blob/master/pom</h4>
+  </details>
+ <br>
+ <br>
+ <br>
   
   :one: **ᴡʜʏ ᴀʀᴇ ᴡᴇ ᴜsᴇᴅ, ʀᴏᴜᴛᴇ ɪᴅ="sɪᴍᴘʟᴇ-ʀᴏᴜᴛᴇ" ɪɴ ᴄᴀᴍᴇʟ ғɪʟᴇ ᴄᴏᴍᴘᴏɴᴇɴᴛ**
   
@@ -37,3 +57,6 @@ The File component provides access to file systems, allowing files to be process
  :five: **ᴡʜʏ ᴀʀᴇ ᴡᴇ ᴜsᴇᴅ, <ʟᴏɢ ɪᴅ="ʀᴏᴜᴛᴇ-ʟᴏɢ" ᴍᴇssᴀɢᴇ=">>> ʜᴇᴀᴅᴇʀs : ${ʜᴇᴀᴅᴇʀs}"/> ɪɴ ᴄᴀᴍᴇʟ ғɪʟᴇ ᴄᴏᴍᴘᴏɴᴇɴᴛ**
  
  And in this header log our header log is generated such as in the output folder from where we are sending the file and the path of the input folder where the file is going.
+
+ 
+  
